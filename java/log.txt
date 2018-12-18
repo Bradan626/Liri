@@ -38,3 +38,7 @@
  1543632995098: User requested: 'to start the program' with a query of 'node liri.js',
  1543678369369: User requested: 'to start the program' with a query of 'node liri.js',
  1543712335275: User requested: 'to start the program' with a query of 'node liri.js',
+ 1545162135271: User requested: 'to start the program' with a query of 'node liri.js',
+ 1545162218257: User requested: 'to start the program' with a query of 'node liri.js',
+ 1545162230190: User requested: 'movie-this ' with a query of 'big hero 6',
+ 1545162244039: User requested: 'to abort the program' with a query of 'No',
